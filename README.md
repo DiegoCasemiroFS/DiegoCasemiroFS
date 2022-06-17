@@ -12,6 +12,10 @@
 </div>
 
 ###
+<img href="https://raw.githubusercontent.com/DiegoCasemiroFS/DiegoCasemiroFS/blob/output/snake.svg" alt="Snake animation" />
+
+
+###
 <div align="left">
   <a href = "mailto:dcfs1998@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://www.facebook.com/profile.php?id=100071051478624" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
