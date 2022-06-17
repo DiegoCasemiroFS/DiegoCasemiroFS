@@ -7,7 +7,7 @@
 </div>
 
 ###
-<div align="right">
+<div align="left">
   <img src="https://profile-counter.glitch.me/DiegoCasemiroFS/count.svg?"  />
 </div>
 
@@ -20,7 +20,4 @@
   <a href="https://www.linkedin.com/in/diego-casemiro-00b83823a/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
     
-###
-![Snake animation](https://github.com/DiegoCasemiroFS/DiegoCasemiroFS/blob/output/github-contribution-grid-snake.svg)
-
 ###
