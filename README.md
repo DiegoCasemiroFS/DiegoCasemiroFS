@@ -12,7 +12,7 @@
 </div>
 
 ###
-<img href="https://raw.githubusercontent.com/DiegoCasemiroFS/DiegoCasemiroFS/blob/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/DiegoCasemiroFS/DiegoCasemiroFS/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
